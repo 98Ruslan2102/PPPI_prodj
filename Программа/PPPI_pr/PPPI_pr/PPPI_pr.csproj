@@ -55,6 +55,7 @@
     <Compile Include="SideView.cs" />
     <Compile Include="VerticView.cs" />
     <Compile Include="WorkingArea.cs" />
+    <Compile Include="Сut.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
