@@ -14,4 +14,14 @@ namespace PPPI_pr
         string typeAnimation;
 
     }
+
+    /// <summary>
+    /// Метод расчитывающий длительность анимации
+    /// </summary>
+    /// <param name="_length"></param>
+    /// <param name="_height"></param>
+    public void TimeAnimation(double _length, double _height)
+    {
+
+    }
 }
