@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 namespace PPPI_pr
 {
     /// <summary>
-    /// Создание класса Shape(фигура), длина, высота, ширина
+    /// Создание класса Shape(фигура), длина, высота, ширина, тип фигуры
     /// </summary>
     class Shape
     {
-        
+        string typeShape;
         double length;
         double width;
         double height;
