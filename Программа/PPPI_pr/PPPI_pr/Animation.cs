@@ -21,9 +21,18 @@ namespace PPPI_pr
     /// </summary>
     /// <param name="_length"></param>
     /// <param name="_height"></param>
-    public void TimeAnimation(double _length, double _height)
+    public void TimeAnimation()
     {
 
     }
-        
+
+    /// <summary>
+    /// Рендеринг
+    /// </summary>
+    /// <param name="_FormatSave"></param>
+    public void Rendering(string _FormatSave)
+    {
+
+    }
+
 }
