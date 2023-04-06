@@ -42,4 +42,13 @@ namespace PPPI_pr
     {
 
     }
+    /// <summary>
+    /// Привязка камеры к фигуре
+    /// </summary>
+    public void SnappCameraFigure()
+    {
+
+    }
+
+
 }
