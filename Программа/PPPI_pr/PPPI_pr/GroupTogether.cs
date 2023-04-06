@@ -12,4 +12,12 @@ namespace PPPI_pr
     class GroupTogether
     {
     }
+
+    /// <summary>
+    /// Метод для разгруппировки фигур
+    /// </summary>
+    public void Ungroup()
+    {
+
+    }
 }
