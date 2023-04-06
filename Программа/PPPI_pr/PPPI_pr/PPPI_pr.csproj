@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="Animation.cs" />
     <Compile Include="Copy.cs" />
+    <Compile Include="GroupTogether.cs" />
     <Compile Include="HorizonView.cs" />
     <Compile Include="Mirror.cs" />
     <Compile Include="Program.cs" />
