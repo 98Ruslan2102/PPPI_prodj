@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 namespace PPPI_pr
 {
     /// <summary>
-    /// Класс горизонтального вида
+    /// Класс вертикального вида
     /// </summary>
-    class HorizonView
+    class VerticView
     {
     }
 }
