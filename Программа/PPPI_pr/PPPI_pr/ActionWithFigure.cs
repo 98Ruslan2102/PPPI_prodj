@@ -12,4 +12,11 @@ namespace PPPI_pr
     class ActionWithFigure
     {
     }
+    /// <summary>
+    /// Метод расчёто точек после перемещения фигуры
+    /// </summary>
+    public void CalculationPointsMove()
+    {
+
+    }
 }
