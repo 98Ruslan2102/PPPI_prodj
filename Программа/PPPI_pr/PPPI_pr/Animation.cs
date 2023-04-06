@@ -7,9 +7,11 @@ using System.Threading.Tasks;
 namespace PPPI_pr
 {
     /// <summary>
-    /// Создание класса Анимации
+    /// Создание класса Анимации, параметр вид анимации
     /// </summary>
     class Animation
     {
+        string typeAnimation;
+
     }
 }
