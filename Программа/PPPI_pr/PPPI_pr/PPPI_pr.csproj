@@ -49,6 +49,7 @@
     <Compile Include="HorizonView.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Shape.cs" />
     <Compile Include="SideView.cs" />
     <Compile Include="VerticView.cs" />
     <Compile Include="WorkingArea.cs" />
