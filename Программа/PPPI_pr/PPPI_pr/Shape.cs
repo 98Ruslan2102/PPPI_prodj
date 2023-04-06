@@ -11,5 +11,8 @@ namespace PPPI_pr
     /// </summary>
     class Shape
     {
+        double length;
+        double width;
+        double height;
     }
 }
