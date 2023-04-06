@@ -26,4 +26,14 @@ namespace PPPI_pr
     public void Cube(double _length, double _width, double _height) { 
     
     }
+
+    /// <summary>
+    /// Метод создания цилиндра
+    /// </summary>
+    /// <param name="_length"></param>
+    /// <param name="_height"></param>
+    public void Cylinder(double _length, double _height)
+    {
+
+    }
 }
