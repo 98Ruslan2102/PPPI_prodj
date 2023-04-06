@@ -13,9 +13,17 @@ namespace PPPI_pr
     {
     }
     /// <summary>
-    /// Метод расчёто точек после перемещения фигуры
+    /// Метод расчёта точек после перемещения фигуры
     /// </summary>
     public void CalculationPointsMove()
+    {
+
+    }
+
+    /// <summary>
+    /// Изменения параметров фигуры
+    /// </summary>
+    public void ChangingParameters()
     {
 
     }
