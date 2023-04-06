@@ -35,4 +35,11 @@ namespace PPPI_pr
     {
 
     }
+    /// <summary>
+    /// Печать фигуры
+    /// </summary>
+    public void Print()
+    {
+
+    }
 }
