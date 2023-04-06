@@ -13,6 +13,7 @@ namespace PPPI_pr
     {
         string typeAnimation;
 
+        string FormatSave;
     }
 
     /// <summary>
@@ -24,4 +25,5 @@ namespace PPPI_pr
     {
 
     }
+        
 }
